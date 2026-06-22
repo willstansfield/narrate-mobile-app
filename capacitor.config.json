@@ -1,0 +1,14 @@
+{
+  "appId": "com.narratebilling.app",
+  "appName": "Narrate",
+  "webDir": "www",
+  "server": {
+    "url": "https://app.narratebilling.com",
+    "cleartext": false,
+    "allowNavigation": ["app.clio.com", "*.clio.com", "clio.com"]
+  },
+  "ios": {
+    "contentInset": "scrollableAxes",
+    "backgroundColor": "#F5F4F1"
+  }
+}
