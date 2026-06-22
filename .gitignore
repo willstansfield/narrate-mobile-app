@@ -1,0 +1,25 @@
+# Dependencies
+node_modules/
+
+# Capacitor
+dist/
+www/
+
+# iOS
+ios/App/Pods/
+ios/App/App/public/
+ios/.xcode.env.local
+*.xcworkspace/xcuserdata/
+*.xcodeproj/xcuserdata/
+DerivedData/
+
+# macOS
+.DS_Store
+
+# Environment
+.env
+.env.local
+
+# Logs
+*.log
+npm-debug.log*
