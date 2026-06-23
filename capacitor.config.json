@@ -8,7 +8,7 @@
     "allowNavigation": ["app.clio.com", "*.clio.com", "clio.com"]
   },
   "ios": {
-    "contentInset": "scrollableAxes",
+    "contentInset": "never",
     "backgroundColor": "#F5F4F1"
   }
 }
